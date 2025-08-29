@@ -1,9 +1,9 @@
-# Hi, I'm J Siddharth 👋  <br><br>
+# Hi, I'm J Siddharth 👋  <br>
 
 I’m a developer passionate about building clean and responsive applications.  <br>My experience includes working with **React.js, Django, Flutter, and Next.js** on projects such as learning management systems and file converters.  <br><br>🌱 Currently exploring: Full-Stack Development & Flutter  <br>📌 Open to: Internships & Full-time opportunities in software development  <br><br>🔗 Connect with me:  <br>[LinkedIn](https://www.linkedin.com/in/j-siddharth-b1a4b8238/) | [Email](mailto:siddharthsj1011@gmail.com)<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharth_jayakumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-siddharth-b1a4b8238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthsj1011@gmail.com) 
 
 # 💻 Tech Stack:
